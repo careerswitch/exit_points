@@ -1,5 +1,5 @@
 #! usr/bin/env python3
-'''exit.py by Ahmet Bolat, 2019-25-06
+'''exit.py by Ahmet Bolat,
 This script will calculate your potential exit points.
 '''
 
